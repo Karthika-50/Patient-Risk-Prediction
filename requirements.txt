@@ -9,3 +9,5 @@ python-dotenv
 flask
 reportlab
 flask-mail
+plotly
+streamlit
